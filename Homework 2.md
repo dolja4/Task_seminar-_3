@@ -29,3 +29,7 @@
 * чтобы увидеть изменения на пк:
   ``git commit -am "kkk"``
   ``git pull``
+ * для сохранения своего локального репозитория в гитхаб  создаём новый репозиторий и копируем команды:
+  - git remote add origin https://github.com/dolja4/Task_seminar-_3.git
+  - git branch -M main
+  - git push -u origin main
